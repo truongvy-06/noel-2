@@ -3,7 +3,7 @@
 <div>
     <a href="https://codepen.io/truongvy-06/pen/zYLvGaK" target="blank"><img align="center" src="https://img.shields.io/badge/DEMO-006fff?style=for-the-badge&logo=codepen&logoColor=white" alt="DEMO"/></a>
     <div>
-    <a href="https://truongvy-06.github.io/game-block.menja/" target="blank"><img align="center" src="https://img.shields.io/badge/GAME-000000?style=for-the-badge&logo=github&logoColor=white" alt="GAME"/></a>
+    <a href="https://truongvy-06.github.io/noel-2/" target="blank"><img align="center" src="https://img.shields.io/badge/DEMO Github-000000?style=for-the-badge&logo=github&logoColor=white" alt="DEMO Github"/></a>
 
 ## Screenshot
 
